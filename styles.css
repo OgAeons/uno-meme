@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#draw4{
+    height: 200px;
+}
+
+table{
+    border: 5px solid white;
+    margin: 120px auto auto auto;
+}
